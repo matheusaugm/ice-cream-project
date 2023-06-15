@@ -1,0 +1,2 @@
+[15 de jun. de 2023 00:19:56] Erro ao cadastrar usuario: ERROR: duplicate key value violates unique constraint "clientes_telefone_uindex"
+  Detalhe: Key (telefone)=(12345) already exists.
