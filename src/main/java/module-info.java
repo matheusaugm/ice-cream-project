@@ -1,4 +1,4 @@
-module com.example.projetoacai2 {
+module com.example.projetoacai {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;
