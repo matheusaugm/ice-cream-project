@@ -1,4 +1,4 @@
-# oop-social-media
+# ice-cream-project(açaí bh newton)
 
 ## Description
 Uma aplicação extremamente simples com um CRUD de usuários e mensagens.
