@@ -40,4 +40,8 @@ public class User {
 	public void setSenha(String senha) {
 		this.senha = senha;
 	}
+
+	public int getId() {
+		return id;
+	}
 }
